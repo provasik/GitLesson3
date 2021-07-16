@@ -1,7 +1,3 @@
 Line 1
-<<<<<<< HEAD
-Line 6
-=======
-Line 8
->>>>>>> c692e69458a8f672e34132ee4605fc7003584d67
+Line 2
 Line 3
